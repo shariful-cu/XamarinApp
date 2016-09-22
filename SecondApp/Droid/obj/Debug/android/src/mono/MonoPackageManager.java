@@ -99,7 +99,7 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "SecondApp.Droid.dll" comes first in this list. */
 		"SecondApp.Droid.dll",
-		"Java.Interop.dll",
+		"System.Runtime.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Android.Support.v7.AppCompat.dll",
 		"Xamarin.Android.Support.Design.dll",
@@ -111,9 +111,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Xaml.dll",
 		"Xamarin.Forms.Platform.dll",
 		"SecondApp.dll",
-		"System.ServiceModel.Internals.dll",
 		"System.Threading.dll",
-		"System.Runtime.dll",
 		"System.Collections.dll",
 		"System.Collections.Concurrent.dll",
 		"System.Diagnostics.Debug.dll",

@@ -1,9 +1,9 @@
-﻿<Properties StartupItem="iOS/SecondApp.iOS.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SecondApp/SecondAppPage.xaml.cs">
+﻿<Properties StartupConfiguration="{D2DE06EE-C339-452C-8A1D-1143A54BAC57}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecondApp/Translator.cs">
     <Files>
-      <File FileName="SecondApp/App.xaml.cs" Line="11" Column="32" />
-      <File FileName="SecondApp/SecondAppPage.xaml.cs" Line="9" Column="25" />
-      <File FileName="SecondApp/Translator.cs" Line="19" Column="26" />
+      <File FileName="SecondApp/App.xaml.cs" Line="11" Column="35" />
+      <File FileName="SecondApp/SecondAppPage.xaml.cs" Line="13" Column="20" />
+      <File FileName="SecondApp/Translator.cs" Line="10" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -12,5 +12,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.SecondApp.Droid PreferredExecutionTarget="Android.Nexus 4 (Marshmallow)" />
-  <MonoDevelop.Ide.ItemProperties.SecondApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.120F5F95-8DC7-427E-A6E1-5296827030EA" />
+  <MonoDevelop.Ide.ItemProperties.SecondApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C6CC0996-70E5-4D0C-9020-68E5DE51D70D" />
 </Properties>
